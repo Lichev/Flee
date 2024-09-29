@@ -1,0 +1,17 @@
+# Node.js (Vue.js)
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Django
+*.py[cod]
+__pycache__/
+db.sqlite3
+/venv/
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
